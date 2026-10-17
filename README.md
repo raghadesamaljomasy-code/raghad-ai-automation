@@ -88,7 +88,7 @@ Analyzing the problem, defining the workflow, structuring input and output data,
 
 **Status:** Workflow implementation and verification are incomplete; some field mapping and end-to-end behavior require further checking.
 
-🔗 [View project documentation](./01-process-and-data/)
+🔗 [View project documentation](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/blob/main/01-Process%20%26%20Data%20Thinking/Independent-Project/README.md)
 
 ## ⭐ Project 02 — TaskBridge
 
