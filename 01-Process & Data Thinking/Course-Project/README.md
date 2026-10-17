@@ -327,13 +327,13 @@ Web Team          Human Review
 
 أرفقي صورة توضح نتيجة معالجة طلب، مع إخفاء أي بيانات شخصية أو معلومات سرية.
 
-**Screenshot:** أضيفي الصورة هنا.
+**Screenshot:** https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/Course-Project/Screenshots
 
 ### Workflow
 
 أرفقي صورة توضح خطوات الـ Zap وترابطها.
 
-**Screenshot:** أضيفي الصورة هنا.
+**Screenshot:** https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/Course-Project/Screenshots
 
 يمكن رفع الصور داخل مجلد `images` في المستودع، ثم عرضها باستخدام روابط Markdown النسبية، مثل:
 
