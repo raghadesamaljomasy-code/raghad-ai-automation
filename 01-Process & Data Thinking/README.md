@@ -35,27 +35,29 @@
 
 ### 01 — Guided Project
 
-**Project:** [Course Project Name]
+**Project:** AI Client Intake & Request Routing System
 
-مشروع عملي أطبّق فيه مفاهيم تحليل العمل وتصميم عملية أتمتة تعتمد على AI.
+مشروع تطبيقي لتصميم نظام أتمتة يعالج طلبات العملاء المحتملين، ويستخرج المعلومات المهمة باستخدام الذكاء الاصطناعي، ويتحقق من اكتمالها، ويحدد مسار المعالجة المناسب.
 
-- **Problem:** [المشكلة التي يعالجها المشروع]
-- **Solution:** [وصف مختصر للحل]
-- **Tools:** [الأدوات المستخدمة]
+- **Problem:** تستغرق معالجة طلبات العملاء يدويًا وقتًا في قراءة النصوص واستخراج المعلومات والتحقق منها، وقد تؤدي المعلومات الناقصة أو الغامضة إلى تأخير المتابعة.
+- **Solution:** تصميم Workflow يستقبل الطلبات عبر Google Forms، ويستخدم AI by Zapier لاستخراج المعلومات وتنظيمها، ثم يوجّه الطلبات إلى مسار المتابعة أو المراجعة البشرية وفق قواعد التحقق، مع تخزين النتائج وإرسال الإشعارات ضمن التصميم المستهدف.
+- **Tools:** Google Forms, Google Sheets, Zapier, AI by Zapier, Email.
+- **Implementation Status:** يوثّق ملف المشروع التصميم المطلوب وخطة الاختبار؛ ويجب التحقق من التنفيذ الفعلي لكل خطوة قبل اعتبار النظام مكتملًا.
 
-[Explore the Project](./course-project/)
+[Explore the Project](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/course-project)
 
 ### 02 — Independent Project
 
-**Project:** [Independent Project Name]
+**Project:** Meeting Management Automation
 
-مشروع مستقل أطبّق فيه ما تعلمته على مشكلة مختلفة، مع تصميم الحل وتنفيذه وتوثيق النتائج.
+مشروع مستقل لتصميم سير عمل يساعد المساعد الإداري على تحويل ملاحظات الاجتماعات الأسبوعية غير المنظمة إلى معلومات واضحة ومنظمة، مع استخراج القرارات والمهام المذكورة صراحةً وحفظ النتائج في Google Sheets.
 
-- **Problem:** [المشكلة التي يعالجها المشروع]
-- **Solution:** [وصف مختصر للحل]
-- **Tools:** [الأدوات المستخدمة]
+- **Problem:** تتطلب معالجة ملاحظات الاجتماعات يدويًا تنظيم النصوص واستخراج القرارات والمهام وتحديد المسؤولين والمواعيد عند ذكرها، مما يزيد الجهد الإداري ويصعّب مراجعة المعلومات.
+- **Solution:** بناء Workflow باستخدام Google Forms وZapier وAI by Zapier لتنظيم الملاحظات واستخراج القرارات والمهام وتخزين النتائج في Google Sheets، مع إبقاء مراجعة المعلومات الناقصة أو الغامضة ضمن مسؤولية المستخدم.
+- **Tools:** Google Forms, Google Sheets, Zapier, AI by Zapier.
+- **Implementation Status:** تم اختبار أجزاء من سير العمل والمعالجة الأساسية، لكن ربط جميع تفاصيل المهام بأعمدتها المنفصلة والتحقق من التشغيل المتكامل ما زالا بحاجة إلى استكمال.
 
-[Explore the Project](./independent-project/)
+[Explore the Project](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/independent-project)
 
 ---
 
@@ -82,19 +84,20 @@
 
 ## 📈 Capability Progress
 
-- [ ] فهم المشكلة والنتيجة المطلوبة.
-- [ ] تفكيك العمل إلى خطوات واضحة.
-- [ ] تحديد المدخلات والمخرجات.
-- [ ] تصميم قرارات AI وRule-Based Logic.
-- [ ] تحديد الحالات التي تحتاج إلى Human Review.
-- [ ] تنفيذ الحل وتوثيق نتائجه.
+- [x] فهم المشكلة والنتيجة المطلوبة.
+- [x] تفكيك العمل إلى خطوات واضحة.
+- [x] تحديد المدخلات والمخرجات.
+- [x] تصميم قرارات AI وRule-Based Logic.
+- [x] تحديد الحالات التي تحتاج إلى Human Review.
+- [x] تطبيق المفاهيم في تصميم مشاريع أتمتة عملية.
+- [ ] استكمال تنفيذ جميع الخطوات والتحقق من نتائج التشغيل النهائي للمشاريع.
 
 ---
 
 ## 🔗 Related Projects
 
-- [Guided Project](./course-project/)
-- [Independent Project](./independent-project/)
+- [Guided Project — AI Client Intake & Request Routing System](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/course-project)
+- [Independent Project — Meeting Management Automation](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/independent-project)
 
 ---
 
