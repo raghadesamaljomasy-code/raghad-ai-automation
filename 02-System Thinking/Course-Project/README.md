@@ -325,7 +325,7 @@ If I continued developing this project, I would:
 
 **Raghad Esam Aljomasy**
 
-[LinkedIn](www.linkedin.com/in/raghad-aljomasy-5b5a06404) · [GitHub](https://github.com/raghadesamaljomasy-code)
+[LinkedIn](https://www.linkedin.com/in/raghad-aljomasy-5b5a06404/) · [GitHub](https://github.com/raghadesamaljomasy-code)
 
 ---
 
