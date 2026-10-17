@@ -1,114 +1,130 @@
 # 🚀 AI Automation Portfolio
 
-> A professional portfolio documenting my journey in designing, building, testing, and improving AI-powered solutions.
+> A portfolio documenting my journey in analyzing real-world problems, designing AI-powered solutions, building applications, automating workflows, and evaluating system behavior.
 
-**AI Automation | AI-Powered Solutions | Workflow Automation | AI Agents**
+**AI Automation · AI-Powered Applications · Workflow Automation · AI Agents · Solution Engineering**
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I'm **[Your Name]**.
+Hi, I'm **Raghad Esam Aljomasy**, a Computer Science graduate from Al-Aqsa University in Gaza, Palestine.
 
-I am a **[Your Professional Title]** interested in building AI-powered solutions that solve real-world problems and create meaningful impact.
+I am interested in building practical digital solutions that combine problem-solving, application development, AI-assisted tools, and workflow automation to address real-world needs.
 
-Through this portfolio, I document the systems and solutions I design and build throughout my AI Automation journey.
+Through this portfolio, I document my learning journey, project requirements, design decisions, implementation attempts, testing scenarios, and lessons learned throughout my AI Automation training.
 
 ### My Focus
 
-- AI Automation
-- AI-Powered Solutions
-- Workflow Automation
-- AI Applications
-- AI Agents
-- Human-Centered Technology
+- AI Automation and Workflow Design
+- AI-Powered Application Building
+- AI Agents and Prompt Engineering
+- Process Analysis and Data Organization
+- Application and Database Design
+- API Integration and System Connectivity
+- Testing, Reliability, and Human Oversight
+- Human-Centered Digital Solutions
 
 ### Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio]
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [Your GitHub]
+- 💼 LinkedIn: [Add your LinkedIn profile]
+- 🌐 Portfolio Website: [Visit my portfolio](https://raghad-snapshot-folio.lovable.app)
+- 🐙 GitHub: [raghadesamaljomasy-code](https://github.com/raghadesamaljomasy-code)
 
 ---
 
 # 🧠 My Engineering Philosophy
 
-> **We don't teach AI to build everything for us.**
->
-> **We learn to understand, design, direct, evaluate, and improve what AI builds.**
+> **Build the System, Not Just the Screen.**
 
-My approach throughout this portfolio is:
+Using AI to build a solution is only one part of the process. Understanding the problem, designing the workflow, checking the data, testing the behavior, and evaluating the results are equally important.
 
-**Understand → Design → Build → Debug → Explain → Improve**
+My approach is:
+
+**Understand → Design → Build → Test → Explain → Improve**
+
+I aim to use AI as a tool for solving problems, while keeping the solution's logic, limitations, and expected behavior clear.
 
 ---
 
 # 🎯 Portfolio Overview
 
-This repository contains the projects I developed throughout the **AI Automation Course**.
+This repository organizes my assignments and project documentation from the AI Automation training journey.
 
-The projects demonstrate my progression from understanding real-world work to designing and building AI-powered systems.
+The work covers different stages of solution engineering, from understanding a business problem to designing applications, connecting systems, evaluating outputs, and identifying improvements.
 
-| Unit | Capability | Projects | Status |
-|---|---|---|---|
-| U1 | Process & Data Thinking | 2 Projects | ⬜ |
-| U2 | AI-Powered Solution Building | 2 Projects | ⬜ |
-| U3 | Quality Thinking | 2 Projects | ⬜ |
-| U4 | Knowledge Grounding | 2 Projects | ⬜ |
-| U5 | Agent & Decision Thinking | 2 Projects | ⬜ |
-| U6 | Integration Thinking | 2 Projects | ⬜ |
-| U7 | Reliability Thinking | 2 Projects | ⬜ |
-| U8 | Solution Engineering | 2 Projects | ⬜ |
+| Unit | Capability | Focus |
+|---|---|---|
+| U1 | Process & Data Thinking | Understanding problems, workflows, and information |
+| U2 | AI-Powered Solution Building | Turning ideas into application prototypes |
+| U3 | Quality Thinking | Testing functionality and evaluating results |
+| U4 | Knowledge Grounding | Working with relevant information and controlled knowledge |
+| U5 | Agent & Decision Thinking | Understanding AI agents and controlled decision-making |
+| U6 | Integration Thinking | Connecting applications, services, and workflows |
+| U7 | Reliability Thinking | Handling errors, limitations, and unexpected behavior |
+| U8 | Solution Engineering | Choosing and designing appropriate solutions |
+
+**Portfolio status:** In progress. Project completion and testing status are documented individually. The unit list represents the training structure, not a claim that every assignment is complete.
 
 ---
 
 # ⭐ Featured Projects
 
-> My strongest projects will be highlighted here after completing the course.
+These projects highlight different aspects of my learning. Their implementation status varies, and the documentation distinguishes working functionality from planned or unverified features.
 
-### ⭐ Project 01 — [Project Name]
+## ⭐ Project 01 — Meeting Management Automation
 
-**What it solves:**  
-[Short description]
+**What it solves:**
 
-**Tools:**  
-[Tools]
+Helps an administrative assistant turn raw weekly meeting notes into structured information, including organized notes, explicitly stated decisions, and actionable tasks.
 
-**My role:**  
-[What I designed/built]
+**Tools:**
 
-🔗 [View Project](./path-to-project)
+Zapier, Google Forms, Google Sheets, AI by Zapier.
 
----
+**My role:**
 
-### ⭐ Project 02 — [Project Name]
+Analyzing the problem, defining the workflow, structuring input and output data, designing AI instructions, and identifying cases that require human review.
 
-**What it solves:**  
-[Short description]
+**Status:** Workflow implementation and verification are incomplete; some field mapping and end-to-end behavior require further checking.
 
-**Tools:**  
-[Tools]
+🔗 [View project documentation](./01-process-and-data/)
 
-**My role:**  
-[What I designed/built]
+## ⭐ Project 02 — TaskBridge
 
-🔗 [View Project](./path-to-project)
+**What it solves:**
 
----
+Helps freelancers, recent graduates, and early-career professionals turn goals into organized plans, tasks, priorities, and trackable progress.
 
-### ⭐ Project 03 — [Project Name]
+**Tools:**
 
-**What it solves:**  
-[Short description]
+Lovable, Supabase, PostgreSQL, Supabase Auth, RLS, GitHub.
 
-**Tools:**  
-[Tools]
+**My role:**
 
-**My role:**  
-[What I designed/built]
+Defining the application scope, documenting user needs, structuring the system and data relationships, identifying security requirements, and preparing test scenarios.
 
-🔗 [View Project](./path-to-project)
+**Status:** Application prototype and requirements documentation; actual feature completion and security testing must be verified.
+
+🔗 [Live Demo](https://pixel-perfect-vision-5072.lovable.app) · [GitHub Repository](https://github.com/raghadesamaljomasy-code/TaskBridge-website)
+
+## ⭐ Project 03 — Masaha Amna | مساحة آمنة
+
+**What it solves:**
+
+Proposes a digital platform that brings consultation services, appointment requests, and a planned knowledge-based AI assistant together in an Arabic interface.
+
+**Tools:**
+
+Lovable, Supabase (planned backend integration), AI integration (planned).
+
+**My role:**
+
+Defining the target users, planning the platform's main features, distinguishing user and consultant functions, and documenting AI limitations, privacy considerations, and testing requirements.
+
+**Status:** Incomplete prototype. Development stopped before all features and integrations could be completed because the available Lovable credits ran out.
+
+🔗 [Live Prototype](https://atomic-design-render.lovable.app)
 
 ---
 
@@ -120,21 +136,25 @@ The projects demonstrate my progression from understanding real-world work to de
 
 **Process & Data Thinking**
 
-I learned how to understand real-world work, decompose processes, identify inputs, design AI-powered decisions, and turn the solution into an automation.
+This area focuses on understanding real-world work before building a solution: identifying the problem, defining the user, analyzing inputs and outputs, decomposing the workflow, and identifying where automation may help.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — Meeting Management Automation
 
-**Type:** Guided Project
+**Type:** Automation Project
 
-🔗 [View Project](./01-process-and-data/course-project)
+**Focus:** Business problem analysis, workflow decomposition, structured meeting data, AI instructions, and human review.
 
-#### 02 — [Independent Project Name]
+🔗 [View Unit Folder](./01-process-and-data/)
+
+#### 02 — Independent Project
 
 **Type:** Independent Project
 
-🔗 [View Project](./01-process-and-data/independent-project)
+**Focus:** Add the final project title and documentation link when the corresponding assignment is confirmed.
+
+🔗 [View Independent Project Folder](./01-process-and-data/independent-project/)
 
 ---
 
@@ -144,21 +164,25 @@ I learned how to understand real-world work, decompose processes, identify input
 
 **AI-Powered Solution Building**
 
-I learned how to transform a problem into a system and use AI-powered tools to design and build an AI-powered application.
+This area focuses on translating requirements into application structures, interfaces, data models, and functionality with the support of AI App Builders.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — TaskBridge
 
-**Type:** Guided Project
+**Type:** Application Prototype
 
-🔗 [View Project](./02-build-the-system/course-project)
+**Focus:** Plan and task management, data relationships, authentication requirements, progress calculation, and access control.
 
-#### 02 — [Independent Project Name]
+🔗 [Live Demo](https://pixel-perfect-vision-5072.lovable.app) · [Repository](https://github.com/raghadesamaljomasy-code/TaskBridge-website)
 
-**Type:** Independent Project
+#### 02 — Masaha Amna | مساحة آمنة
 
-🔗 [View Project](./02-build-the-system/independent-project)
+**Type:** Application Prototype
+
+**Focus:** Arabic-first user experience, consultation services, appointment requests, consultant workflows, and a planned knowledge-based assistant.
+
+🔗 [Live Prototype](https://atomic-design-render.lovable.app)
 
 ---
 
@@ -168,21 +192,27 @@ I learned how to transform a problem into a system and use AI-powered tools to d
 
 **Quality Thinking**
 
-I learned how to test AI-powered systems, identify failures, evaluate outputs, and improve solution quality.
+This area focuses on validating system behavior rather than assuming that a generated interface or an implemented feature works correctly.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — Application Testing Documentation
 
-**Type:** Guided Project
+**Type:** Testing and Quality Documentation
 
-🔗 [View Project](./03-prove-it-works/course-project)
+**Focus:** Positive testing, negative testing, edge cases, data persistence, access control, and documenting expected versus actual results.
 
-#### 02 — [Independent Project Name]
+The TaskBridge and Masaha Amna documentation includes test scenarios that still require practical verification.
+
+🔗 [View Unit Folder](./03-prove-it-works/)
+
+#### 02 — Independent Quality Project
 
 **Type:** Independent Project
 
-🔗 [View Project](./03-prove-it-works/independent-project)
+**Focus:** Add the project name, actual test evidence, and results after confirming the relevant assignment.
+
+🔗 [View Independent Project Folder](./03-prove-it-works/independent-project/)
 
 ---
 
@@ -192,7 +222,7 @@ I learned how to test AI-powered systems, identify failures, evaluate outputs, a
 
 **Knowledge & Context Thinking**
 
-I learned how AI systems can work with external knowledge and how to design solutions that use relevant, controlled information.
+This area explores how AI systems can use relevant information and context to produce more useful, grounded responses.
 
 ### Projects
 
@@ -200,13 +230,17 @@ I learned how AI systems can work with external knowledge and how to design solu
 
 **Type:** Guided Project
 
-🔗 [View Project](./04-ground-its-knowledge/course-project)
+**Focus:** Document the actual knowledge source, retrieval process, answer generation, and limitations of the assistant based on the implemented project.
 
-#### 02 — [Independent Project Name]
+🔗 [View Project Folder](./04-ground-its-knowledge/course-project/)
 
-**Type:** Independent Project
+#### 02 — RAG & Reranking Research
 
-🔗 [View Project](./04-ground-its-knowledge/independent-project)
+**Type:** Research and Learning Assignment
+
+**Focus:** Understanding Retrieval-Augmented Generation (RAG), reranking, and how selecting and ordering relevant information can improve the context provided to an AI system.
+
+🔗 [View Unit Folder](./04-ground-its-knowledge/)
 
 ---
 
@@ -216,21 +250,29 @@ I learned how AI systems can work with external knowledge and how to design solu
 
 **Agent & Decision Thinking**
 
-I learned when an Agent is appropriate, how AI can make decisions, and how to keep autonomous behavior controlled.
+This area focuses on understanding when an AI agent is useful, how it interacts with tools, and how to keep its decisions and actions within defined boundaries.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — AI Agent Workflow
 
-**Type:** Guided Project
+**Type:** Agent Learning Project
 
-🔗 [View Project](./05-control-its-agency/course-project)
+**Focus:** Exploring a workflow that connects a Telegram trigger, an AI agent or model, and a response to the user.
 
-#### 02 — [Independent Project Name]
+**Tools explored:** n8n, Telegram, Gemini.
+
+The documented project scope and actual implementation should be confirmed before describing the workflow as complete.
+
+🔗 [View Unit Folder](./05-control-its-agency/)
+
+#### 02 — Independent Agent Project
 
 **Type:** Independent Project
 
-🔗 [View Project](./05-control-its-agency/independent-project)
+**Focus:** Add the final project name and documentation when the assignment is confirmed.
+
+🔗 [View Independent Project Folder](./05-control-its-agency/independent-project/)
 
 ---
 
@@ -240,21 +282,27 @@ I learned when an Agent is appropriate, how AI can make decisions, and how to ke
 
 **Integration Thinking**
 
-I learned how AI-powered systems communicate with external applications, services, APIs, and data sources.
+This area focuses on connecting applications, automation platforms, APIs, data sources, and external services.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — Meeting Management Workflow Integration
 
-**Type:** Guided Project
+**Type:** Workflow Automation
 
-🔗 [View Project](./06-connect-it-to-the-world/course-project)
+**Focus:** Connecting form submissions, spreadsheet records, AI processing, and structured outputs using Zapier.
 
-#### 02 — [Independent Project Name]
+The project requires further verification of the complete workflow and the mapping of individual output fields.
+
+🔗 [View Unit Folder](./06-connect-it-to-the-world/)
+
+#### 02 — Independent Integration Project
 
 **Type:** Independent Project
 
-🔗 [View Project](./06-connect-it-to-the-world/independent-project)
+**Focus:** Add the final project name, connected services, and implementation evidence after confirming the relevant assignment.
+
+🔗 [View Independent Project Folder](./06-connect-it-to-the-world/independent-project/)
 
 ---
 
@@ -264,21 +312,27 @@ I learned how AI-powered systems communicate with external applications, service
 
 **Reliability Thinking**
 
-I learned how to design AI-powered systems that handle errors, unexpected inputs, failures, and operational risks.
+This area focuses on identifying failure scenarios, handling incomplete or unexpected inputs, reviewing access restrictions, and making system behavior more predictable.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — Reliability and Security Review
 
-**Type:** Guided Project
+**Type:** Quality and Reliability Documentation
 
-🔗 [View Project](./07-make-it-reliable/course-project)
+**Focus:** Documenting failure scenarios, missing information, access-control requirements, and verification needs for application and automation workflows.
 
-#### 02 — [Independent Project Name]
+Relevant examples include the review requirements documented for TaskBridge, Masaha Amna, and Meeting Management Automation.
+
+🔗 [View Unit Folder](./07-make-it-reliable/)
+
+#### 02 — Independent Reliability Project
 
 **Type:** Independent Project
 
-🔗 [View Project](./07-make-it-reliable/independent-project)
+**Focus:** Add the confirmed assignment, observed failures, implemented fixes, and retest evidence.
+
+🔗 [View Independent Project Folder](./07-make-it-reliable/independent-project/)
 
 ---
 
@@ -288,152 +342,187 @@ I learned how to design AI-powered systems that handle errors, unexpected inputs
 
 **Solution Engineering**
 
-I learned how to choose the right solution for a real-world problem by considering the problem, users, constraints, AI capabilities, automation, reliability, and impact.
+This area focuses on selecting a suitable solution based on the real problem, target users, constraints, data requirements, AI capabilities, and expected impact.
 
 ### Projects
 
-#### 01 — [Course Project Name]
+#### 01 — SkillBridge Lite
 
-**Type:** Guided Project
+**Type:** AI-Powered Application Concept / MVP
 
-🔗 [View Project](./08-engineer-the-right-solution/course-project)
+**Focus:** Helping students, recent graduates, and early-career professionals compare their profiles with career opportunities and identify relevant skills, potential gaps, and recommended next steps.
 
-#### 02 — [Independent Project Name]
+**Design considerations:** Clear user flow, structured profile and opportunity data, actionable AI feedback, and avoiding unsupported claims about a user's skills or employment prospects.
+
+**Status:** Documented concept and application requirements; implementation and live behavior must be verified before claiming a complete working application.
+
+🔗 [View Unit Folder](./08-engineer-the-right-solution/)
+
+#### 02 — Independent Solution Engineering Project
 
 **Type:** Independent Project
 
-🔗 [View Project](./08-engineer-the-right-solution/independent-project)
+**Focus:** Add the confirmed project name and explain why the chosen solution fits its problem and constraints.
+
+🔗 [View Independent Project Folder](./08-engineer-the-right-solution/independent-project/)
 
 ---
 
 # 🛠️ Technical Toolkit
 
-Tools and technologies I worked with throughout the course:
+Tools and technologies explored or used across my projects and assignments.
 
 ### AI & Automation
 
-- AI Automation
-- LLMs
+- Large Language Models (LLMs)
+- Prompt Engineering
 - AI Agents
 - Workflow Automation
-- Prompt Engineering
+- AI-Assisted Problem Solving
 
 ### AI-Powered Application Building
 
-- AI App Builders
 - Lovable
 - Supabase
+- AI App Builders
+- Application and Database Design
 
 ### Automation & Integration
 
 - Zapier
-- APIs
-- Webhooks
-- External Services
+- n8n
+- APIs and External Services
+- Google Forms
+- Google Sheets
+- Telegram
+- Gemini
 
-### Other Tools
+### Development & Documentation
 
 - GitHub
-- [Add your tools]
+- Markdown
+- Requirements Analysis
+- Workflow Design
+- Functional Testing
+- Data Modeling
+
+*The toolkit includes technologies explored in training and project work. It does not imply professional mastery of every listed tool.*
 
 ---
 
 # 📈 My Learning Journey
 
-My progression throughout the course:
+My learning journey follows a progression from understanding the work to engineering and evaluating a complete solution.
 
 ```text
-U1
-Understand the Work
-        ↓
-U2
-Build the System
-        ↓
-U3
-Prove It Works
-        ↓
-U4
-Ground Its Knowledge
-        ↓
-U5
-Control Its Agency
-        ↓
-U6
-Connect It to the World
-        ↓
-U7
-Make It Reliable
-        ↓
-U8
-Engineer the Right Solution
+U1 — Understand the Work
+          ↓
+U2 — Build the System
+          ↓
+U3 — Prove It Works
+          ↓
+U4 — Ground Its Knowledge
+          ↓
+U5 — Control Its Agency
+          ↓
+U6 — Connect It to the World
+          ↓
+U7 — Make It Reliable
+          ↓
+U8 — Engineer the Right Solution
 ```
+
+The goal is not simply to build something that looks complete, but to understand what it does, how it handles information, where AI is appropriate, and what evidence is needed to trust its behavior.
 
 ---
 
 # 💡 Key Lessons
 
-Throughout the course, I learned that building with AI is not simply about generating outputs.
+Throughout my AI Automation learning journey, I have learned that building with AI is not simply about generating an interface, a workflow, or a response.
 
-It is about:
+It also involves:
 
-- Understanding the real problem
-- Designing before building
-- Choosing the right level of automation
-- Knowing where AI should and should not be used
-- Controlling AI behavior
-- Testing assumptions
-- Handling failure
-- Connecting systems
-- Evaluating results
-- Improving continuously
+- Understanding the actual problem before selecting a tool.
+- Defining requirements and data before implementation.
+- Separating planned features from working functionality.
+- Choosing where automation is useful and where human review is necessary.
+- Limiting AI responses to what the available information supports.
+- Considering privacy and access control from the beginning.
+- Testing positive, negative, and edge cases.
+- Documenting failures and verifying fixes.
+- Connecting tools without assuming that integration is automatically reliable.
+- Improving a solution based on evidence rather than appearance alone.
 
 ### My Most Important Lesson
 
-> **[Write your own most important lesson from the course.]**
+> **AI can accelerate building, but understanding the system, validating its behavior, and taking responsibility for its limitations remain essential.**
 
 ---
 
 # 🚀 Beyond the Course
 
-This repository will continue to grow beyond the course.
-
-Future projects, experiments, and AI-powered solutions will be added here as I continue developing my skills.
+I plan to continue developing practical solutions that combine Computer Science, AI-assisted application building, and workflow automation.
 
 ### Future Projects
 
-- [Project]
-- [Project]
-- [Project]
+- Improving existing application prototypes through implementation and testing.
+- Developing practical administrative and information-management workflows.
+- Exploring knowledge-grounded assistants with clearer boundaries and human review.
+- Building portfolio projects that demonstrate complete workflows, not only interface designs.
 
 ---
 
 # 📊 Portfolio Status
 
-| Area | Progress |
+The portfolio is actively being organized. The status below describes the documentation and verification work currently needed, rather than claiming that every training unit is complete.
+
+| Area | Current Focus |
 |---|---|
-| Process & Data | ⬜ |
-| System Building | ⬜ |
-| Quality | ⬜ |
-| Knowledge | ⬜ |
-| Agency | ⬜ |
-| Integration | ⬜ |
-| Reliability | ⬜ |
-| Solution Engineering | ⬜ |
+| Process & Data | Documenting problem analysis and workflow design |
+| System Building | Documenting application prototypes and system requirements |
+| Quality | Recording actual test results and evidence |
+| Knowledge | Documenting RAG, reranking, and knowledge-based AI concepts |
+| Agency | Clarifying agent workflows and their boundaries |
+| Integration | Verifying connections between tools and services |
+| Reliability | Reviewing failure scenarios, privacy, and access control |
+| Solution Engineering | Explaining solution choices, constraints, and trade-offs |
+
+**Overall Status:** In progress — project documentation, implementation, and verification are maintained individually.
 
 ---
 
 # 📜 About This Repository
 
-This repository was developed as part of my journey through an **AI Automation Course**.
+This repository serves as the main portfolio for my AI Automation training assignments and project documentation.
 
-The projects are presented as documented engineering work, including the problem, solution, tools, design decisions, implementation, testing, evidence, and lessons learned.
+It brings together work covering problem analysis, application building, workflow automation, AI concepts, testing, and solution design.
+
+Each project should document the relevant details, including:
+
+- Problem and target users
+- Proposed solution and scope
+- Workflow and system logic
+- AI role and limitations
+- Tools and technologies
+- Key design decisions
+- Testing scenarios and actual results
+- Evidence of implementation
+- Challenges, lessons learned, and future improvements
+
+Project documentation should distinguish between completed functionality, partially implemented work, proposed designs, and features that still require verification.
 
 ---
 
 ## 👩‍💻 Author
 
-**[Your Name]**
+**Raghad Esam Aljomasy**
 
-AI Automation | AI-Powered Solutions | Human-Centered Innovation
+Computer Science Graduate | AI Automation | AI-Powered Solutions
 
-[LinkedIn] · [GitHub] · [Portfolio]
+- [GitHub Profile](https://github.com/raghadesamaljomasy-code)
+- LinkedIn: [https://www.linkedin.com/in/raghad-aljomasy-5b5a06404/]
+- Portfolio: [Visit my portfolio](https://raghad-snapshot-folio.lovable.app)
+
+---
+
+*Learning to build better systems — one problem, one workflow, and one improvement at a time.*
