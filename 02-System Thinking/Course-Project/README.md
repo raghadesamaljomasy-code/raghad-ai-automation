@@ -263,7 +263,7 @@ Relevant Skills
 
 أضيفي لقطة شاشة للواجهة الرئيسية أو شاشة تعرض الفرص المهنية في النسخة الفعلية من التطبيق.
 
-`![SkillBridge Lite — Final Result](images/skillbridge-home.png)`
+`![SkillBridge Lite — Final Result](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/02-System%20Thinking/Course-Project/Screenshots)`
 
 ### Workflow
 
