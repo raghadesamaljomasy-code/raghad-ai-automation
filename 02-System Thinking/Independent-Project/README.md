@@ -245,7 +245,7 @@ Display Relevant Information
 
 أضيفي لقطة شاشة توضّح طريقة تفاعل الزائر مع المساعد الذكي، مثل السؤال والإجابة أو الأسئلة المقترحة.
 
-`![AI Assistant Interaction](images/ai-assistant.png)`
+`![AI Assistant Interaction](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/02-System%20Thinking/Independent-Project/Screenshots)`
 
 إذا لم يتوفر مخطط تقني منفصل لسير العمل، يمكن استخدام لقطة شاشة من الواجهة أو مخطط بسيط يوضّح انتقال السؤال إلى المساعد ثم عرض الإجابة.
 
