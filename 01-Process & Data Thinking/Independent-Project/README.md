@@ -219,13 +219,13 @@ Human Review
 
 أضيفي هنا لقطة شاشة من Google Sheets تُظهر النتائج التي تم حفظها فعليًا.
 
-`![Meeting Results](images/meeting-results.png)`
+`![Meeting Results](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/Independent-Project/Screenshots)`
 
 ### Workflow
 
 أضيفي هنا لقطة شاشة من Zapier توضّح خطوات سير العمل وإعداداته.
 
-`![Zapier Workflow](images/zapier-workflow.png)`
+`![Zapier Workflow](https://github.com/raghadesamaljomasy-code/raghad-ai-automation/tree/main/01-Process%20%26%20Data%20Thinking/Independent-Project/Screenshots)`
 
 > استبدلي مسارات الصور بأسماء الملفات الفعلية بعد رفعها إلى مجلد `images` في المستودع، ولا تتركي الصور الوهمية مكان الأدلة الحقيقية.
 
@@ -275,7 +275,6 @@ If I continued developing this project, I would:
 
 ## 🔗 Project Links
 
-- **Workflow:** [أضيفي رابط Zapier بعد التأكد من إمكانية مشاركته](#).
 - **Repository:** [Meeting Management Automation — GitHub](https://github.com/raghadesamaljomasy-code/Meeting-Management-Automation-RaghadAljomasy-)
 
 ## 👩‍💻 Author
