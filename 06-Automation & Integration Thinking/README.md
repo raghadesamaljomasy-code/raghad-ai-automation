@@ -4,6 +4,21 @@
 
 ---
 
+## Project Links
+
+| Resource | Link |
+|---|---|
+| **Live Demo** | [https://pixel-perfect-replay-5053.lovable.app/](https://pixel-perfect-replay-5053.lovable.app/) |
+| **GitHub Repository** | [https://github.com/raghadesamaljomasy-code/pixel-perfect-replay-5053](https://github.com/raghadesamaljomasy-code/pixel-perfect-replay-5053) |
+
+**Clone the repository:**
+
+```bash
+git clone https://github.com/raghadesamaljomasy-code/pixel-perfect-replay-5053.git
+```
+
+---
+
 ## 1. Abstract
 
 يهدف هذا المشروع التعليمي إلى بناء نظام متكامل يُمكّن المستخدم من إدخال بيانات مشروعه (العنوان، الوصف، الهدف، السياق الإضافي)، ثم توليد خطة عمل منظمة تتضمن **Execution Phases** و**Recommended Actions** و**Risks and Mitigations** و**Estimated Duration**. ويركّز المشروع على مبادئ **Separation of Concerns** و**Asynchronous Processing** و**Real Data Display**، إضافةً إلى توثيق منهجي لأبرز الأخطاء التي واجهت عملية التكامل وأسبابها وطرق معالجتها.
